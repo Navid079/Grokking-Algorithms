@@ -1,2 +1,6 @@
 .obsidian/
 .vscode/
+*.exe
+*.bin
+*.out
+*.class
